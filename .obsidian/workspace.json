@@ -200,14 +200,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9dba37a43126545d",
+  "active": "0c9853dd0b546e4b",
   "lastOpenFiles": [
+    "_config.yml",
+    "_config.yaml",
     "_posts/2026-08-09-test.md",
     "index.md",
     "_posts/2026-08-09-hello-from-obsidian.md.md",
     "_posts/2026-08-09-test.md.md",
     "_posts/2026-08-09-my-first-post.md",
-    "conflict-files-obsidian-git.md",
-    "_config.yml"
+    "conflict-files-obsidian-git.md"
   ]
 }
