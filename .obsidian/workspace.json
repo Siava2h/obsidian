@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-08-09-hello-from-obsidian.md.md",
+                "file": "_posts/2026-08-09-my-first-post.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-09-hello-from-obsidian.md"
+              "title": "2026-08-09-my-first-post"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2026-08-09-hello-from-obsidian.md.md",
+                "file": "_posts/2026-08-09-my-first-post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2026-08-09-hello-from-obsidian.md.md",
+                "file": "_posts/2026-08-09-my-first-post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2026-08-09-hello-from-obsidian.md.md",
+                "file": "_posts/2026-08-09-my-first-post.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -202,8 +202,8 @@
   },
   "active": "b98c6fc0519b442e",
   "lastOpenFiles": [
-    "_posts/2026-08-09-my-first-post.md",
     "_posts/2026-08-09-hello-from-obsidian.md.md",
+    "_posts/2026-08-09-my-first-post.md",
     "index.md",
     "_config.yml"
   ]
