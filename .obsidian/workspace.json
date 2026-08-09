@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-08-09-test.md",
+                "file": "_posts/2026-08-09-test.md",
                 "mode": "source",
                 "source": false
               },
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2026-08-09-test.md",
+                "file": "_posts/2026-08-09-test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2026-08-09-test.md",
+                "file": "_posts/2026-08-09-test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-08-09-test.md",
+                "file": "_posts/2026-08-09-test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -200,9 +200,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a881b39ad7d15fbe",
+  "active": "9dba37a43126545d",
   "lastOpenFiles": [
-    "2026-08-09-test.md",
+    "_posts/2026-08-09-test.md",
     "index.md",
     "_posts/2026-08-09-hello-from-obsidian.md.md",
     "_posts/2026-08-09-test.md.md",
