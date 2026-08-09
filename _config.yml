@@ -1,5 +1,3 @@
 title: My Blog
 description: A simple blog
 theme: minima
-nav_pages:
-	- about.md
