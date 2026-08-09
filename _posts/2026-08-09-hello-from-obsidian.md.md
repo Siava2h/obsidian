@@ -8,3 +8,4 @@ date: 2026-08-09
 I'm writing this post in Obsidian.
 
 This is pretty nice.
+nothing?!
