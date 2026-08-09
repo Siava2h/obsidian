@@ -2,7 +2,6 @@
 layout: default
 title: Home
 ---
-
 # Hello 👋
 
 This is my new blog.
