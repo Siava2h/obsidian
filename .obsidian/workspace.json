@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2026-08-09-hello-from-obsidian.md"
             }
+          },
+          {
+            "id": "7351fa36312d040d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2026-08-09-hello-from-obsidian.md.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2026-08-09-hello-from-obsidian.md.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2026-08-09-hello-from-obsidian.md.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -200,10 +215,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b98c6fc0519b442e",
+  "active": "7351fa36312d040d",
   "lastOpenFiles": [
-    "_posts/2026-08-09-my-first-post.md",
     "_posts/2026-08-09-hello-from-obsidian.md.md",
+    "conflict-files-obsidian-git.md",
+    "_posts/2026-08-09-my-first-post.md",
     "index.md",
     "_config.yml"
   ]
