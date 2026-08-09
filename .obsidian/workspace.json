@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "2026-08-09-test"
             }
-          },
-          {
-            "id": "5b6dcba938eb0d0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -215,11 +198,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b6dcba938eb0d0f",
+  "active": "9dba37a43126545d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "_posts/2026-08-09-test.md",
     "_config.yml",
+    "_posts/2026-08-09-test.md",
+    "conflict-files-obsidian-git.md",
     "_config.yaml",
     "index.md",
     "_posts/2026-08-09-hello-from-obsidian.md.md",
