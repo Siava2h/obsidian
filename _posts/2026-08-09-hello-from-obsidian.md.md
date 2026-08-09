@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "Hello from Obsidian"
+layout: Posts
+title: Hello from Obsidian
 date: 2026-08-09
 ---
 # Hello from Obsidian
